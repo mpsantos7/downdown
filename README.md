@@ -13,3 +13,6 @@ Use only right and left arrow keys
 
 The game doesn't has replay. 
 When you lose then It goes back to prompt.
+
+
+![Screen shot](https://github.com/mpsantos7/downdown/blob/main/downdown_shot.png)
